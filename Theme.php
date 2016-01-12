@@ -1,5 +1,5 @@
 <?php
-namespace Ceus;
+namespace Pracas;
 use MapasCulturais\Themes\BaseV1;
 use MapasCulturais\App;
 
