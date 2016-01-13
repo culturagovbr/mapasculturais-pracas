@@ -1,6 +1,9 @@
 <?php
 
 return [
+    'app.enabled.agents'   => false,
+    'app.enabled.projects' => false,
+    'app.enabled.apps'     => false,
 //    // latitude,longitude do centro do mapa da busca e do mapa da criação de agentes e espaços
 //    'maps.center' => [-14.2400732, -53.1805018],
 //
