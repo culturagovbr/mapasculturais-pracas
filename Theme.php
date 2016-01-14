@@ -32,10 +32,11 @@ class Theme extends BaseV1\Theme{
 
             'entities: Space' => 'Praça',
             'entities: Spaces' => 'Praças',
-            'entities: My Spaces'=> 'Minhas Praças',
-            'entities: My spaces'=> 'Minhas praças',
-            'entities: no registered spaces'=> 'nenhuma praça cadastrada',
-            'entities: no spaces'=> 'nenhuma praça'
+            'entities: My Spaces' => 'Minhas Praças',
+            'entities: My spaces' => 'Minhas praças',
+            'entities: no registered spaces' => 'nenhuma praça cadastrada',
+            'entities: no spaces' => 'nenhuma praça',
+            'entities: new space' => 'nova praça'
         ];
     }
 
